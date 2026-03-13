@@ -1,0 +1,27 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000J\u0000a\u0000v\u0000a\u0000S\u0000c\u0000r\u0000i\u0000p\u0000t\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadhavanNagaraj2024/JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadhavanNagaraj2024/JavaScript/issues"
+  },
+  "homepage": "https://github.com/MadhavanNagaraj2024/JavaScript#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.1.14",
+    "socket.io": "^4.8.3"
+  }
+}
